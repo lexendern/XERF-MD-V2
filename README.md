@@ -5,7 +5,7 @@
   <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&color=7078F7&width=435&lines=XERF-MD-V2;FORK+MY+BOT+A+GIVE+ME+STARS+%E2%AD%90%EF%B8%8F+;Thank+you+%F0%9F%99%8F+" alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://files.fm/u/bd56sa8gbc?k=c01a7630"/> 
+<img src="[https://files.fm/u/bd56sa8gbc?k=c01a7630](https://telegra.ph/file/d8ffb4a2f208b6ea8a1d4.jpg)"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{LustForlana}/count.svg" alt="LustForlana: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/LustForlana/followers"><img title="Followers" src="https://img.shields.io/github/followers/LustForlana?color=red&style=flat-square"></a>
