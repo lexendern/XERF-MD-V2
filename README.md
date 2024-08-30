@@ -31,7 +31,7 @@
 ### 2. GET PAIRING CODE SESSION
 
 <div style="
-  background-color: black; 
+  background-color: #1a1f71; 
   color: white; 
   padding: 20px; 
   text-align: center; 
