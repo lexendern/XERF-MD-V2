@@ -82,10 +82,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/Kgtech-cmr/KERM_MD-v3.git",
+  "repository": "git+https://github.com/LustForlana/XERF-MD-V2.git",
   "bugs": {
-    "url": "https://github.com/LustForlana/XERF-MD/issues"
+    "url": "https://github.com/LustForlana/XERF-MD-V2/issues"
   },
-  "homepage": "https://github.com/LustForlana/XERF-MD/#readme",
+  "homepage": "https://github.com/LustForlana/XERF-MD-V2/#readme",
   "main": "index.js"
 }
