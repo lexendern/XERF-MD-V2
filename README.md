@@ -25,7 +25,8 @@
 
 ### 1. FORK THIS REPO
 
-https://github.com/LustForlana/XERF-MD-V2/fork
+<a href="https://github.com/LustForlana/XERF-MD-V2/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
 
 ### 2. GET PAIRING CODE SESSION
 
