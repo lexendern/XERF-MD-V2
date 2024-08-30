@@ -27,4 +27,12 @@
 
 https://github.com/LustForlana/XERF-MD-V2/fork
 
+### 2. GET PAIRING CODE SESSION
+
+<div align="center">
+   
+<a href="https://raizenbot-webpair.onrender.com"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Pair Code" height="112" width="300" /></a><br>
+
+</div>
+
 EN COURS DE DEVELLOPEMENT...
